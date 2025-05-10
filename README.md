@@ -26,6 +26,5 @@ The dataset is based on a fictional HR database commonly used in analytics portf
 ![Dashboard Screenshot](![HR dashboard clip](https://github.com/user-attachments/assets/80a936d2-b3aa-4a07-b393-60638704a8fc)
 )
 
-### Preview dasboard
-MTE HR ANALYSIS INTERACTIVE DASHBOARD REPORT.pbix
+
 
